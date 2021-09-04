@@ -1,0 +1,41 @@
+{
+    "name": "SindriTowlee2",
+    "symbol": "TWLEE",
+    "description": "Sindri having fun2",
+    "seller_fee_basis_points": 1,
+    "image": "2.png",
+    "external_url": "https://gunnlaugur.is",
+    "attributes": [
+      {
+        "trait_type": "web",
+        "value": "yes"
+      },
+      {
+        "trait_type": "mobile",
+        "value": "yes"
+     },
+     {
+        "trait_type": "extension",
+        "value": "yes"
+      }
+    ],
+    "collection": {
+       "name": "Towlee",
+       "family": "Towels" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "G1XsN7bnS4PAKpqBqXuVmGpF5FMTnFm9FnZvFLjVhUPB",
+          "share": 100
+        }
+      ]
+    }
+  }

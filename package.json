@@ -1,0 +1,19 @@
+{
+  "name": "solana-towels",
+  "version": "1.0.0",
+  "description": "NFT on solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solana-Towles/Solana-Towels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solana-Towles/Solana-Towels/issues"
+  },
+  "homepage": "https://github.com/Solana-Towles/Solana-Towels#readme"
+}
